@@ -19,6 +19,11 @@
 				$l = $cex[0];
 				// make $arr[KEY] = VALUE
 				$t = explode(":", $l);
+
+				if (substr($t[1], 0, 1) == " ") {
+					$t[1] = substr($t[1], 1);
+				}
+
 				$arr[$t[0]] = $t[1];
 			}
 		}
