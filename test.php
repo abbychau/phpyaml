@@ -7,4 +7,17 @@
 	$a = yamlToArray("dummy.yaml");
 
 	print_r($a);
+
+	/*
+		Will display this:
+
+		Array
+		(
+		    [vara] => some value 
+		    [varb] => value2
+		    [don] => Don Kuntz
+		    [title] => "A B"
+		    [num] => 45
+		)
+	*/
 ?>
