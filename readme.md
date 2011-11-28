@@ -6,7 +6,7 @@ Or a *simple* yaml -> php array script.
 
 1. I was looking at jekyll, which is a cool project, but I didn't really want to use it's funky setup (I mean, why use somebody else's funky setup when you can use your own?).
 2. I was bored, and thought about maybe creating a php clone of jekyll, with maybe a few differences.
-3. Didn't want to get started on large scale project tonight, but didn't mind takling a small part of it.
+3. Didn't want to get started on large scale project tonight, but didn't mind tackling a small part of it.
 4. We now have this really simple script.
 
 ## Using?
