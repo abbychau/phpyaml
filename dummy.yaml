@@ -1,0 +1,9 @@
+# This is a comment, php should NOT read any part of this at all...
+
+vara: some value # comment after the variable
+varb: value2
+don: Don Kuntz
+title: "A B"
+num: 45
+
+# another comment
